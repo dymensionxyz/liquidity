@@ -4,6 +4,7 @@ module github.com/tendermint/liquidity
 
 require (
 	github.com/cosmos/cosmos-sdk v0.46.10
+	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0 // indirect
 	github.com/gogo/protobuf v1.3.3
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
